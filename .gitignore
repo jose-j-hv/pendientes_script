@@ -1,2 +1,2 @@
-# ignore objects and archives, anywhere in the tree.
-    *.[archivos]
+# ignora los archivos de excel de la carpeta archivos
+archivos\*.xlsx
